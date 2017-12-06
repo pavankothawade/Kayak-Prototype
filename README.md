@@ -39,17 +39,14 @@ Only user with Admin credentials can view this module
 |Mange Admin Profile
 |Log out
 
-#System Design:
-|Kayak Application is built on top of the following:
-|Node.js - Application Server
-|Express.js - Node.js Web Framework
-|MongoDb and MySQL - Database Storage
-|Twitter Bootstrap and Material UI - UI Component & Layout Library
-|Kafka – communication between frontend and backend- Distributed architecture
-|Redis - SQL Caching
+# Technology Stack
+
+![mern stack](https://user-images.githubusercontent.com/31905103/33641825-f8764a1a-d9eb-11e7-94e1-8fe37598a532.PNG)
+![tech stack](https://user-images.githubusercontent.com/31905103/33641809-ea67226e-d9eb-11e7-88cc-80b69b4e0608.PNG)
 
 
 # Screenshots
+
 1. Homepage
 ![homepage](https://user-images.githubusercontent.com/31905103/33640948-56285e0e-d9e8-11e7-9a05-c8145df2d7d8.PNG)
 
