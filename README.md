@@ -6,6 +6,7 @@ The goal is to build a Kayak web application which enables the user to search fo
 
 # PURPOSE OF SYSTEM:
 Kayak Application is used to search for flights/cars/hotels and make a booking based on the options set by the user. The purpose of each module developed in this application is as follows:
+
 ## User Module:
 Create a new user
 Delete the user account
@@ -13,25 +14,26 @@ Change and update user information
 Display information about the user in profile section
 Search listing for different categories
 Filter Listings based on user search criteria
-Filter Hotels based on stars, price
-Filter Flights based on departure, arrival dates and price
-Filter cars based on car type, price
+	a.Filter Hotels based on stars, price
+	b.Filter Flights based on departure, arrival dates and price
+	c.Filter cars based on car type, price
 Book a Hotel/Car or Flight
 Make Payment and view purchase summary
 View Past/Future Bookings
 Upload a profile picture and update profile picture
-Admin Module:
+
+##Admin Module:
 Only user with Admin credentials can view this module
 Stats Page - Consists of Graphs and statistics
 Manage Listings:
-Add a Listing
-Car
-Flight
-Hotel
-Update a listing
-Car
-Flight
-Hotel
+	A.Add a Listing
+		a.Car
+		b.Flight
+		c.Hotel
+	B.Update a listing
+		a.Car
+		b.Flight
+        c.Hotel
 Manage Users
 Search Payment information based on date and months
 Mange Admin Profile
