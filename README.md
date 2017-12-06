@@ -51,29 +51,29 @@ Only user with Admin credentials can view this module
 
 # Screenshots
 1. Homepage
-[![Homepage.png](https://s2.postimg.org/lrev8cgw9/Homepage.png)](https://postimg.org/image/9cs380pdx/)
+![homepage](https://user-images.githubusercontent.com/31905103/33640948-56285e0e-d9e8-11e7-9a05-c8145df2d7d8.PNG)
 
 2. SignUp Page
-[![signuppage.png](https://s2.postimg.org/gh9wgiehl/signuppage.png)](https://postimg.org/image/gh9wgiehh/)
+![signuppage](https://user-images.githubusercontent.com/31905103/33640968-68ad6b6e-d9e8-11e7-8777-75afd5ac06ec.PNG)
 
 3. Hotel Search
-[![Hotel_Search.png](https://s2.postimg.org/b5uzvt7uh/Hotel_Search.png)](https://postimg.org/image/677hha41h/)
+![hotel_search](https://user-images.githubusercontent.com/31905103/33640988-77335888-d9e8-11e7-9770-e988e86461e2.PNG)
 
 4. Flight Search
-[![Flight_Search.png](https://s2.postimg.org/l360ovn61/Flight_Search.png)](https://postimg.org/image/4feimdsed/)
+![flight_search](https://user-images.githubusercontent.com/31905103/33640994-77c6688a-d9e8-11e7-881d-95bd4f71462f.PNG)
 
 5. Car Search
-[![Car_Search.png](https://s2.postimg.org/hjk2z2s61/Car_Search.png)](https://postimg.org/image/8bruidl3p/)
+![car_search](https://user-images.githubusercontent.com/31905103/33640993-77ad5c1e-d9e8-11e7-8c3f-db3494655dae.PNG)
 
 6. Payment Page
-[![Payment_Page.png](https://s2.postimg.org/8bruie0jd/Payment_Page.png)](https://postimg.org/image/91amur12t/)
+![payment_page](https://user-images.githubusercontent.com/31905103/33640989-774df2ec-d9e8-11e7-8e73-5cc7b86d41f4.PNG)
 
 7. Admin Page
-[![Admin_Page.png](https://s2.postimg.org/at3lpns5l/Admin_Page.png)](https://postimg.org/image/lfxev30at/)
+![admin_page](https://user-images.githubusercontent.com/31905103/33640992-7795630c-d9e8-11e7-8cad-14e386d6a17f.PNG)
 
 8. Adding Hotel
-[![Adding_Hotel.png](https://s2.postimg.org/gh9wgkbxl/Adding_Hotel.png)](https://postimg.org/image/gu1amqu79/)
+![adding_hotel](https://user-images.githubusercontent.com/31905103/33640991-777dff0a-d9e8-11e7-94c8-b9246f201814.PNG)
 
 9. Statistics
-[![Statistics.png](https://s2.postimg.org/b5uzvv5ah/Statistics.png)](https://postimg.org/image/epgxlo805/)
+![statistics](https://user-images.githubusercontent.com/31905103/33640990-77664360-d9e8-11e7-9d16-0ef8ff3357df.PNG)
 
