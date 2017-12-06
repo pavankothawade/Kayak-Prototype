@@ -51,3 +51,29 @@ Only user with Admin credentials can view this module
 
 # Screenshots
 1. Homepage
+[![Homepage.png](https://s2.postimg.org/lrev8cgw9/Homepage.png)](https://postimg.org/image/9cs380pdx/)
+
+2. SignUp Page
+[![signuppage.png](https://s2.postimg.org/gh9wgiehl/signuppage.png)](https://postimg.org/image/gh9wgiehh/)
+
+3. Hotel Search
+[![Hotel_Search.png](https://s2.postimg.org/b5uzvt7uh/Hotel_Search.png)](https://postimg.org/image/677hha41h/)
+
+4. Flight Search
+[![Flight_Search.png](https://s2.postimg.org/l360ovn61/Flight_Search.png)](https://postimg.org/image/4feimdsed/)
+
+5. Car Search
+[![Car_Search.png](https://s2.postimg.org/hjk2z2s61/Car_Search.png)](https://postimg.org/image/8bruidl3p/)
+
+6. Payment Page
+[![Payment_Page.png](https://s2.postimg.org/8bruie0jd/Payment_Page.png)](https://postimg.org/image/91amur12t/)
+
+7. Admin Page
+[![Admin_Page.png](https://s2.postimg.org/at3lpns5l/Admin_Page.png)](https://postimg.org/image/lfxev30at/)
+
+8. Adding Hotel
+[![Adding_Hotel.png](https://s2.postimg.org/gh9wgkbxl/Adding_Hotel.png)](https://postimg.org/image/gu1amqu79/)
+
+9. Statistics
+[![Statistics.png](https://s2.postimg.org/b5uzvv5ah/Statistics.png)](https://postimg.org/image/epgxlo805/)
+
