@@ -41,8 +41,8 @@ Only user with Admin credentials can view this module
 
 # Technology Stack
 
-![mern stack](https://user-images.githubusercontent.com/31905103/33641825-f8764a1a-d9eb-11e7-94e1-8fe37598a532.PNG)
-![tech stack](https://user-images.githubusercontent.com/31905103/33641809-ea67226e-d9eb-11e7-88cc-80b69b4e0608.PNG)
+![capture](https://user-images.githubusercontent.com/31905103/33642126-564d7392-d9ed-11e7-9bcf-a7cc6daa17e8.PNG)
+![2](https://user-images.githubusercontent.com/31905103/33642283-1e691020-d9ee-11e7-8b19-88a87e549cee.PNG)
 
 
 # Screenshots
